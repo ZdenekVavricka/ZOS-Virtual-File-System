@@ -1,10 +1,8 @@
 # I-Node Based Virtual File System (VFS)
 
-**Author:** Zdeněk Vavřička
-
-**Date:** February 2022
-
-**Course:** Fundamentals of Operating Systems (KIV/ZOS)
+**Author:** Zdeněk Vavřička  
+**Date:** February 2022   
+**Course:** Základy operačních systémů (KIV/ZOS)  
 
 ---
 
